@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "task/drawcreditpage-focus-v7",
+    "task/repaymentvisualizer-skel-v7"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "task/drawcreditpage-focus-v7": "main",
+    "task/repaymentvisualizer-skel-v7": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "task/drawcreditpage-focus-v7",
+    "task/repaymentvisualizer-skel-v7"
+  ]
+}
